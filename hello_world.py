@@ -3,3 +3,5 @@ def hello_word():
 
 def sum_numbers(a, b):
     return a + b
+def new():
+    print("new")
